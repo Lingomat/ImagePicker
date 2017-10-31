@@ -1,7 +1,9 @@
 cordova-imagePicker
 ===================
 
-Cordova Plugin For Multiple Image Selection - implemented for iOS and Android 4.0 and above.
+For of https://github.com/Telerik-Verified-Plugins/ImagePicker
+
+Because upstream doesn't seem to want to make a two-line change to fix the Android landscape crash issue.
 
 ## Installing the plugin
 
